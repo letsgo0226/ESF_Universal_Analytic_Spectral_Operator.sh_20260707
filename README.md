@@ -1,0 +1,1 @@
+# ESF_Universal_Analytic_Spectral_Operator.sh_20260707
